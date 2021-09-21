@@ -23,3 +23,7 @@ This course is using the :sparkles: open source project [resume-template](https:
 # just a little bit more.
 
 # done adding code. 
+
+[] adding check box 1 !!!
+[] adding check box 2 !!!
+[] adding check box 3 !!!
