@@ -14,16 +14,13 @@ I'll meet you over there, can't wait to get started!
 
 This course is using the :sparkles: open source project [resume-template](https://github.com/jglovier/resume-template). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
 
-# adding some code.
+# adding check boxes !!!  
 
-# adding some more code.
-
-# more code.
-
-# just a little bit more.
-
-# done adding code. 
-
-[] adding check box 1 !!!
-[] adding check box 2 !!!
-[] adding check box 3 !!!
+- [x] Design
+- [x] Mockups
+- [x] Development
+- [x] Unit testing
+- [ ] QA
+- [ ] Stage
+- [ ] Beta Testing
+- [ ] Production
